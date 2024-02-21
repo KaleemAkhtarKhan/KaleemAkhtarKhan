@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kaleem Akhtar Khan</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleemakhtarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="kaleemakhtarkhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleemakhtarkhan" alt="kaleemakhtarkhan" /></a> </p>
+- 🔭 I’m currently working on **Web Development**
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🌱 I’m currently learning **Web Development(MERN),Java**
 
-- 🌱 I’m currently learning **Web Technology's (MERN),JAVA**
-
-- 👯 I’m looking to collaborate on **development**
+- 👯 I’m looking to collaborate on **Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaleemAkhtarKhan](https://github.com/KaleemAkhtarKhan)
 
-- 💬 Ask me about **Java ,HTML ,CSS,REACT,NODE,MangoDB,Express etc**
+- 📝 I regularly write articles on [https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/](https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/)
 
-- 📫 How to reach me **kingkhanmim077@gmail.com**
+- 💬 Ask me about **Java,HTML,CSS,JavaScript,bootstrap,MangoDb**
+
+- 📫 How to reach me **kaleemakhtarkha1@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kaleem khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaleem khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/" height="30" width="40" /></a>
 <a href="https://instagram.com/waqas_kaleemkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqas_kaleemkhan" height="30" width="40" /></a>
 </p>
 
@@ -30,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleemakhtarkhan&show_icons=true&locale=en" alt="kaleemakhtarkhan" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemakhtarkhan&" alt="kaleemakhtarkhan" /></p>
