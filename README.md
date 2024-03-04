@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleem Akhtar Khan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleemakhtarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="kaleemakhtarkhan" /> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Web Development(MERN),Java**
