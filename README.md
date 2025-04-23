@@ -30,7 +30,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemakhtarkhan&" alt="kaleemakhtarkhan" /></p> -->
 <p align="center">
     <a href="https://https://github.com/kaleemakhtarkhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pramod Maurya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemakhtarkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaleem Akhtar Khan" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleemakhtarkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
