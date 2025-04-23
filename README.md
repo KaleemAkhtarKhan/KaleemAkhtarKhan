@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaleem Akhtar Khan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Data Structure and Algorithm **
 
-- 🌱 I’m currently learning **Web Development(MERN),Java**
+- 🌱 I’m currently learning **Web Development(MERN),Java Spring boot**
 
 - 👯 I’m looking to collaborate on **Development**
 
