@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaleemAkhtarKhan](https://github.com/KaleemAkhtarKhan)
+- 👨‍💻 All of my projects are available at [Github.com](https://github.com/KaleemAkhtarKhan)
 
-- 📝 I regularly write articles on [Personal website ](https://www.kaleem.xyz/blog))
+- 📝 I regularly write articles on [www.kaleem.xyz](https://www.kaleem.xyz/blog)
 
 - 💬 Ask me about **Java,HTML,CSS,JavaScript,bootstrap,MangoDb**
 
