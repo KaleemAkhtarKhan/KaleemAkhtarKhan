@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaleemAkhtarKhan](https://github.com/KaleemAkhtarKhan)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/](https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/kaleem-akhtar-khan-3075092b6/](https://www.kaleem.xyz/blog))
 
 - 💬 Ask me about **Java,HTML,CSS,JavaScript,bootstrap,MangoDb**
 
